@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ehti007
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, SQL and Machine Learning
+- 🌱 I’m currently learning Python, Data Analytics and their concepts
